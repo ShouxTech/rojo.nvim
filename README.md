@@ -8,7 +8,7 @@ Ensure you have 'rojo' on your PATH. Install Rojo CLI using instructions [here](
 ### lazy.nvim
 ```lua
 {
-  "ShouxTech/rojo.nvim",
+  'ShouxTech/rojo.nvim',
   opts = {},
 }
 ```
