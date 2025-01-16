@@ -14,8 +14,10 @@ Ensure you have 'rojo' on your PATH. Install Rojo CLI using instructions [here](
 ```
 
 ## Usage
-The plugin will expose these commands foryou:
+The plugin will expose these commands for you:
+```
 :RojoVersion
 :RojoInit
 :RojoServe
 :RojoStopServe
+```
